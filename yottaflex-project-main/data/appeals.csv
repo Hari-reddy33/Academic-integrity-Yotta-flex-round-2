@@ -1,0 +1,25 @@
+id,appeal_key,case_id,appellant_id,reason,status,independent_reviewer_id,outcome,submitted_at,resolved_at
+1,APL-INT-2026-000004-01,4,1,Synthetic appeal citing quote context and requesting independent review.,resolved,,upheld,2026-03-06 04:00:00+00:00,2026-03-08 04:00:00+00:00
+2,APL-INT-2026-000005-01,5,1,Synthetic appeal citing quote context and requesting independent review.,pending,2,,2026-03-06 05:00:00+00:00,
+3,APL-INT-2026-000006-01,6,1,Synthetic appeal citing quote context and requesting independent review.,pending,3,,2026-03-06 06:00:00+00:00,
+4,APL-INT-2026-000007-01,7,1,Synthetic appeal citing quote context and requesting independent review.,resolved,4,overturned,2026-03-06 07:00:00+00:00,2026-03-08 07:00:00+00:00
+5,APL-INT-2026-000013-01,13,1,Synthetic appeal citing quote context and requesting independent review.,pending,2,,2026-03-06 13:00:00+00:00,
+6,APL-INT-2026-000022-01,22,1,Synthetic appeal citing quote context and requesting independent review.,resolved,3,overturned,2026-03-06 22:00:00+00:00,2026-03-08 22:00:00+00:00
+7,APL-INT-2026-000026-01,26,1,Synthetic appeal citing quote context and requesting independent review.,pending,3,,2026-03-06 02:00:00+00:00,
+8,APL-INT-2026-000039-01,39,1,Synthetic appeal citing quote context and requesting independent review.,pending,4,,2026-03-06 15:00:00+00:00,
+9,APL-INT-2026-000052-01,52,1,Synthetic appeal citing quote context and requesting independent review.,pending,1,,2026-03-06 04:00:00+00:00,
+10,APL-INT-2026-000078-01,78,1,Synthetic appeal citing quote context and requesting independent review.,pending,3,,2026-03-06 06:00:00+00:00,
+11,APL-INT-2026-000091-01,91,1,Synthetic appeal citing quote context and requesting independent review.,pending,4,,2026-03-06 19:00:00+00:00,
+12,APL-INT-2026-000104-01,104,1,Synthetic appeal citing quote context and requesting independent review.,pending,1,,2026-03-06 08:00:00+00:00,
+13,APL-INT-2026-000117-01,117,1,Synthetic appeal citing quote context and requesting independent review.,pending,2,,2026-03-06 21:00:00+00:00,
+14,APL-INT-2026-000143-01,143,1,Synthetic appeal citing quote context and requesting independent review.,pending,4,,2026-03-06 23:00:00+00:00,
+15,APL-INT-2026-000156-01,156,1,Synthetic appeal citing quote context and requesting independent review.,pending,1,,2026-03-06 12:00:00+00:00,
+16,APL-INT-2026-000169-01,169,1,Synthetic appeal citing quote context and requesting independent review.,pending,2,,2026-03-06 01:00:00+00:00,
+17,APL-INT-2026-000182-01,182,1,Synthetic appeal citing quote context and requesting independent review.,pending,3,,2026-03-06 14:00:00+00:00,
+18,APL-INT-2026-000208-01,208,1,Synthetic appeal citing quote context and requesting independent review.,pending,1,,2026-03-06 16:00:00+00:00,
+19,APL-INT-2026-000221-01,221,1,Synthetic appeal citing quote context and requesting independent review.,pending,2,,2026-03-06 05:00:00+00:00,
+20,APL-INT-2026-000234-01,234,1,Synthetic appeal citing quote context and requesting independent review.,pending,3,,2026-03-06 18:00:00+00:00,
+21,APL-INT-2026-000247-01,247,1,Synthetic appeal citing quote context and requesting independent review.,pending,4,,2026-03-06 07:00:00+00:00,
+22,APL-INT-2026-000273-01,273,1,Synthetic appeal citing quote context and requesting independent review.,pending,2,,2026-03-06 09:00:00+00:00,
+23,APL-INT-2026-000286-01,286,1,Synthetic appeal citing quote context and requesting independent review.,pending,3,,2026-03-06 22:00:00+00:00,
+24,APL-INT-2026-000299-01,299,1,Synthetic appeal citing quote context and requesting independent review.,pending,4,,2026-03-06 11:00:00+00:00,

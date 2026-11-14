@@ -1,0 +1,2 @@
+id,rule_key,name,review_threshold,effective_from,effective_to,description
+1,RULE-2026-001,Similarity review threshold,0.72,2026-01-01 00:00:00+00:00,,A score at or above 0.72 creates a human review flag only; it is not a finding of misconduct.

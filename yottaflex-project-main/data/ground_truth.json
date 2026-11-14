@@ -1,0 +1,2402 @@
+[
+  {
+    "case_key": "INT-2026-000001",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "automatic_guilt",
+    "anomaly": true,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000002",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "reviewer_conflict",
+    "anomaly": true,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000003",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "evidence_after_decision",
+    "anomaly": true,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000004",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "appeal_without_independent_review",
+    "anomaly": true,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000005",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000006",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000007",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": true
+  },
+  {
+    "case_key": "INT-2026-000008",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000009",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000010",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000011",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000012",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000013",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000014",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000015",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000016",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000017",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000018",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000019",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000020",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000021",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000022",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": true
+  },
+  {
+    "case_key": "INT-2026-000023",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000024",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000025",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000026",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000027",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000028",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000029",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000030",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000031",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000032",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000033",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000034",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000035",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000036",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000037",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000038",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000039",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000040",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000041",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000042",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000043",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000044",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000045",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000046",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000047",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000048",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000049",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000050",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000051",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000052",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000053",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000054",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000055",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000056",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000057",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000058",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000059",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000060",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000061",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000062",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000063",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000064",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000065",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000066",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000067",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000068",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000069",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000070",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000071",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000072",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000073",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000074",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000075",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000076",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000077",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000078",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000079",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000080",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000081",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000082",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000083",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000084",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000085",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000086",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000087",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000088",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000089",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000090",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000091",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000092",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000093",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000094",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000095",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000096",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000097",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000098",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000099",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000100",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000101",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000102",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000103",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000104",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000105",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000106",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000107",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000108",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000109",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000110",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000111",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000112",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000113",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000114",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000115",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000116",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000117",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000118",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000119",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000120",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000121",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000122",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000123",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000124",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000125",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000126",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000127",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000128",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000129",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000130",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000131",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000132",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000133",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000134",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000135",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000136",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000137",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000138",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000139",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000140",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000141",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000142",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000143",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000144",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000145",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000146",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000147",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000148",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000149",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000150",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000151",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000152",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000153",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000154",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000155",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000156",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000157",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000158",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000159",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000160",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000161",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000162",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000163",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000164",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000165",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000166",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000167",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000168",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000169",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000170",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000171",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000172",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000173",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000174",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000175",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000176",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000177",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000178",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000179",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000180",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000181",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000182",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000183",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000184",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000185",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000186",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000187",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000188",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000189",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000190",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000191",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000192",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000193",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000194",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000195",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000196",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000197",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000198",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000199",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000200",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000201",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000202",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000203",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000204",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000205",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000206",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000207",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000208",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000209",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000210",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000211",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000212",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000213",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000214",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000215",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000216",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000217",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000218",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000219",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000220",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000221",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000222",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000223",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000224",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000225",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000226",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000227",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000228",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000229",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000230",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000231",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000232",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000233",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000234",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000235",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000236",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000237",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000238",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000239",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000240",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000241",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000242",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000243",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000244",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000245",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000246",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000247",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000248",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000249",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000250",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000251",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000252",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000253",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000254",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000255",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000256",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000257",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000258",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000259",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000260",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000261",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000262",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000263",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000264",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000265",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000266",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000267",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000268",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000269",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000270",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000271",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000272",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000273",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000274",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000275",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000276",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000277",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000278",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000279",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000280",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000281",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000282",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000283",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000284",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000285",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000286",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000287",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000288",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000289",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000290",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000291",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000292",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000293",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000294",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000295",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000296",
+    "expected_label": "misconduct",
+    "expected_decision": "substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000297",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000298",
+    "expected_label": "uncertain",
+    "expected_decision": "inconclusive",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000299",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  },
+  {
+    "case_key": "INT-2026-000300",
+    "expected_label": "legitimate",
+    "expected_decision": "not_substantiated",
+    "issue_type": "standard",
+    "anomaly": false,
+    "successful_appeal": false
+  }
+]

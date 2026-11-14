@@ -1,0 +1,47 @@
+{
+  "generator": "app.generator.build_dataset",
+  "seed": 20261022,
+  "parameters": {
+    "submissions": 10000,
+    "flags": 1000,
+    "cases": 300
+  },
+  "validation": {
+    "users": 10,
+    "learners": 600,
+    "assessments": 40,
+    "rules": 1,
+    "reviewers": 4,
+    "submissions": 10000,
+    "reports": 10000,
+    "flags": 1000,
+    "cases": 300,
+    "evidence": 601,
+    "decisions": 240,
+    "appeals": 24,
+    "events": 1480,
+    "label_counts": {
+      "legitimate": 107,
+      "misconduct": 71,
+      "uncertain": 122
+    },
+    "anomaly_count": 4
+  },
+  "checksums_sha256": {
+    "users.csv": "bbb2fcc4ab2863f0a7fc69a2dc510ddccffb0dd157f8c01c9e5ea986a17b4057",
+    "learners.csv": "ad4fa6e33481022a059c86f7930b615115b49ec9dea62fb97a3f8dbac367783d",
+    "assessments.csv": "a1368c34857a81b202f3a8b8907e2744530d9d9991f64450f652d7e2aabd5ed6",
+    "rules.csv": "d87cff58ba4c7c6c9370f4b83f50efe9beb40bace24641225b46e4bb19a645ae",
+    "submissions.csv": "f3c13c07e8deed62b941895ebf6ad10aa48e45c797bca312ef20862dc36143a1",
+    "reports.csv": "42d9149c35e6aac13b9a6514f35771ceb767245eac3ae3446d5db980f71f22b1",
+    "reviewers.csv": "68b53402a60c05b59dc09373ea52e1dd9695c726d654aa4742449e64477611dd",
+    "cases.csv": "8795b56a2430575b4ae7fdf88b5ad076deaf0fb57777cdb924748f54fe87f105",
+    "assignments.csv": "404c106c2629f7a30c5b86f9b1249655aa984ee7e62d7b2e62ed309a3b5ea343",
+    "evidence.csv": "56ea1165d3e68ecf47a276bbb8f5fb2f9c72d1b6c63f36f8bf08a4609e4f40e3",
+    "decisions.csv": "c4f6a789e99d26636f9a4fba4009516162636efb4e8eebbf236aad10500e3632",
+    "appeals.csv": "b8775c8c0be0baa677c012e16eaf059f6cfc1d29d2d7174c0dafc6250869d162",
+    "events.csv": "ee88123824ee83427dcb745868b8d2843514b10a557c73c3faa1ea435dc20922",
+    "ground_truth.json": "285537e8f917daa9b09d827bb96aadf502bf947a665364d4f5d165d84333a487"
+  },
+  "provenance": "Entirely synthetic records; no external learner data or source content."
+}

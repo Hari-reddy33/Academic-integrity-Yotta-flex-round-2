@@ -1,0 +1,11 @@
+id,email,full_name,role
+1,learner@demo.local,Alex Learner,learner
+2,instructor@demo.local,Morgan Instructor,instructor
+3,admin@demo.local,Avery Administrator,academic_admin
+4,support@demo.local,Jordan Support,support
+5,platform@demo.local,Taylor Platform Admin,platform_admin
+6,reviewer1@demo.local,Reviewer 1,reviewer
+7,reviewer2@demo.local,Reviewer 2,reviewer
+8,reviewer3@demo.local,Reviewer 3,reviewer
+9,reviewer4@demo.local,Reviewer 4,reviewer
+10,learner2@demo.local,Casey Learner,learner
